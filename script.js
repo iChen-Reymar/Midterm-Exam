@@ -1,7 +1,7 @@
 const products = [
-    { id: 1, name: "Laptop", price: 1500, stock: 5 },
-    { id: 2, name: "Headphones", price: 100, stock: 10 },
-    { id: 3, name: "Keyboard", price: 50, stock: 20 },
+    { id: 1, name: "Laptop", price: 1500, stock: 12 },
+    { id: 2, name: "Headphones", price: 100, stock: 25 },
+    { id: 3, name: "Keyboard", price: 50, stock: 30 },
   ];
   
   function addToCart(productId) {
